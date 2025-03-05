@@ -1,4 +1,4 @@
-# AR Breast Self-Exam  
+# AR Breast Cancer Self-Exam  
 
 ## 🩺 Overview  
 An interactive AR-powered guide that teaches users proper breast self-exam techniques using a 3D model.  
