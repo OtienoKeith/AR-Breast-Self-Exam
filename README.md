@@ -12,7 +12,7 @@ An interactive AR-powered guide that teaches users proper breast self-exam techn
 1. **Use a Smartphone** – The AR experience requires camera access.  
 2. **Open the Link** – Visit **[8th.io/7dg7y](https://8th.io/7dg7y)** on your mobile browser.  
 3. **Grant Camera Permission** – Allow access when prompted.  
-4. **Interact with the Model** – Tap the torso to reveal self-exam steps.  
+4. **Interact with the Model** – Tap one of the **purple gems** to reveal the steps to take.  
 
 ## 📹 Demo  
 [Watch the Demo on Loom](#) *(Replace with Loom link)*  
@@ -21,3 +21,4 @@ An interactive AR-powered guide that teaches users proper breast self-exam techn
 - **8thWall** – AR interactions and hosting  
 - **3D Model** – Breast self-exam visualization  
 - **Canva** – UI elements and design  
+
